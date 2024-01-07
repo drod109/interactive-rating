@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - LIve Site Primary URL: [Live Site Preview](https://drod109.github.io/interactive-rating/)
-- Live Site Backup URL: [Live Site Preview](https://your-live-site-url.com)
+- Live Site Backup URL: [Live Site Preview](https://codepen.io/drodrigues/full/poYyZgg)
 
 ## My process
 
