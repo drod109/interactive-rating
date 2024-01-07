@@ -25,9 +25,7 @@
     --ntrl-dark-blue: hsl(213, 19%, 18%);
     --ntrl-very-dark-blue: hsl(216, 12%, 8%);
 }
-html {
-    font-size: 62.5%;
-}
+html,
 body {
     font-family: Overpass, sans-serif, system-ui;
     background-color: var(--ntrl-very-dark-blue);
@@ -52,16 +50,20 @@ ul {
     );
     color: var(--ntrl-white);
     padding: 2rem;
-    max-width: 30rem;
+    max-width: 28rem;
     border-radius: 1rem;
+}
+.rating-icon img {
+    width: 20px;
+    height: 20px;
 }
 .rating-icon {
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 3rem;
+    height: 3rem;
     padding: 1rem;
     background: radial-gradient(
         circle at 50% 50%,
@@ -85,7 +87,7 @@ ul {
 .rating {
     display: flex;
     justify-content: space-around;
-    gap: 18px;
+    gap: 20px;
     align-items: center;
     text-align: center;
     padding: 0.5rem 0 1rem 0;
@@ -109,8 +111,8 @@ ul {
     all: unset;
     outline: revert;
     border: none;
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 3.2rem;
+    width: 3.2rem;
     border-radius: 100%;
     cursor: pointer;
     background: radial-gradient(
