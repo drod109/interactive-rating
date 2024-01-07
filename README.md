@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 1](https://i.postimg.cc/gjfzKYCm/interactive-rating-card1.png)
-![Screenshot 2](https://i.postimg.cc/WzDprDf5/interactive-rating-card2.png)
+![Screenshot 1](https://i.postimg.cc/Wb7FvyJ8/interactive-rating-card1.png)
+![Screenshot 2](https://i.postimg.cc/fRT3TvcN/interactive-rating-card2.png)
 
 ### Links
 
