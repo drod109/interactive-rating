@@ -42,7 +42,7 @@ ul {
 }
 .rating-wrapper,
 .thank-you-wrapper {
-    font-family: Overpass;
+    font-family: Overpass, sans-serif, system-ui;
     display: flex;
     background: radial-gradient(
         circle at 50% -75%,
