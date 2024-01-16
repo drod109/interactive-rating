@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive Rating Component Solution
+# Interactive Rating Component Solution - Frontend Mentor
 
 This is a solution to the [Interactive Rating Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- LIve Site Primary URL: [Live Site Preview](https://drod109.github.io/interactive-rating/)
+- LIve Site Primary URL: [Live Site Preview](https://drod109.github.io/interactive-rating-card/)
 - Live Site Backup URL: [Live Site Preview](https://codepen.io/drodrigues/full/poYyZgg)
 
 ## My process
